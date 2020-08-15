@@ -1,0 +1,3 @@
+#!/bin/sh
+~/.buildozer/android/platform/android-sdk/platform-tools/adb logcat python:I *:s
+
